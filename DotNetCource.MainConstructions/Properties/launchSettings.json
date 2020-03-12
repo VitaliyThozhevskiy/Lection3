@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotNetCource.MainConstructions": {
+      "commandName": "Project",
+      "commandLineArgs": "1 2 6"
+    }
+  }
+}

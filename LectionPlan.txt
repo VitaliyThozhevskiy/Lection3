@@ -1,0 +1,25 @@
+Content:
+1) Simple program structure;
+2) Main variations;
+3) Input arguments(debugging);
+4) Enviroment details;
+5) Strings interpolation;
+6) Primitive types;
+7) Defining variables;
+8) Internal types;
+9) Objects hierarchy;
+10) Brief look on the primitive types;
+11) Strings;
+12) Casting types;
+13) Implicit typing;
+14) Constructions;
+
+Homework:
+1) Chapter 3, Part 2(read);
+2) Write console app with these methods(use console for results output)
+ - defining all types of primitives and initializing them;
+ - casting for all types of primitives(explicit, implicit);
+ - using all methods of string for some string value for instance "Hello world!";
+ - write at least 5 types and use theirs object derived methods;
+ - write five methods with implicit typing;
+ - write 2 methods with using every c# construction;
